@@ -72,9 +72,6 @@ TARGET_USERIMAGES_USE_EXT4 := true
 # Exclude AudioFX
 TARGET_EXCLUDES_AUDIOFX := true
 
-# Extended filesystem support
-TARGET_EXFAT_DRIVER := sdfat
-
 # Vendor separation
 TARGET_COPY_OUT_VENDOR := system/vendor
 
